@@ -29,7 +29,7 @@ namespace LB3.Controllers
             var dataContext = new lb3dataDataContext();
 
             var data = from y in dataContext.Years
-                       //orderby u.Timestamp descending
+                       orderby y.YID descending
                        select y;
 
             ViewData["YearTarget"] = target;

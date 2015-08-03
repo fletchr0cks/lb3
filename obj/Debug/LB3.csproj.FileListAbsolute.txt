@@ -8,3 +8,8 @@ G:\Nick\Visual Studio 2008\Projects\LB3\LB3\bin\LB3.pdb
 G:\Nick\Visual Studio 2008\Projects\LB3\LB3\obj\Debug\ResolveAssemblyReference.cache
 G:\Nick\Visual Studio 2008\Projects\LB3\LB3\obj\Debug\LB3.dll
 G:\Nick\Visual Studio 2008\Projects\LB3\LB3\obj\Debug\LB3.pdb
+C:\Users\u8001065\Documents\GitHub\lb3\bin\LB3.dll
+C:\Users\u8001065\Documents\GitHub\lb3\bin\LB3.pdb
+C:\Users\u8001065\Documents\GitHub\lb3\obj\Debug\LB3.csprojResolveAssemblyReference.cache
+C:\Users\u8001065\Documents\GitHub\lb3\obj\Debug\LB3.dll
+C:\Users\u8001065\Documents\GitHub\lb3\obj\Debug\LB3.pdb
